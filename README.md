@@ -1,2 +1,2 @@
 # Devops_Terraform
-Includes the code for accessing AWS services through terraform
+This branch includes the terraform scripts for spinning up different AWS services.
