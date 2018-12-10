@@ -9,7 +9,6 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
-*.terraform/plugins/linux_amd64
 
 # Crash log files
 crash.log
