@@ -12,11 +12,11 @@ variable "username" {
 }
 
 variable "password" {
-	default = "testing@2018"
+	default = "******"
 }
 
 variable "tag" {
-	default     = "demo"
+	default     = "test"
 }
 
 variable "vpc-id" {
