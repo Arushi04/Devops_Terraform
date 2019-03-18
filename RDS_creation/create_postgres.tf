@@ -37,7 +37,7 @@ resource "aws_security_group" "rds" {
 		cidr_blocks = ["0.0.0.0/0"]
 }
 	tags {
-		testing = "${var.tag}"
+		Name = "RDS Instance"
 	  }
 }
 
