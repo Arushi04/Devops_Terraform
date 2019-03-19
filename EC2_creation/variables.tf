@@ -17,5 +17,5 @@ variable "tag" {
 }
 
 variable "keypair" {
-	default     = "testkeypair_mumbai"
+	default     = "keypairname"
 }
